@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "563484205525",
+    "firebase_url": "https://airobotica-68c85.firebaseio.com",
+    "project_id": "airobotica-68c85",
+    "storage_bucket": "airobotica-68c85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563484205525:android:eaa676a71ed96b04345d5c",
+        "android_client_info": {
+          "package_name": "com.learning.airobotica_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563484205525-ojlvd60gogngrvpr4ctvfc2htohgh7b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZfaIeu5_3Zcty8oqS4NQggubsbHhLMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563484205525-ojlvd60gogngrvpr4ctvfc2htohgh7b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563484205525:android:46ae065e9684d9a9345d5c",
+        "android_client_info": {
+          "package_name": "com.lucifer.flutter_app_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563484205525-ojlvd60gogngrvpr4ctvfc2htohgh7b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZfaIeu5_3Zcty8oqS4NQggubsbHhLMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563484205525-ojlvd60gogngrvpr4ctvfc2htohgh7b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
