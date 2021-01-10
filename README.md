@@ -1,6 +1,6 @@
 # airobotica_flutter
 
-A new Flutter application.
+A new Flutter application. A Flutter APP to enroll for online courses, internships and projects. The APP has been linked to the payment gateway and also has features to pay in installments. The app also includes demo tests and videos. This is the initial version of the APP and the final version has been uploaded on playstore.
 
 ## Getting Started
 
